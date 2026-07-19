@@ -1,4 +1,4 @@
-Based on your screenshots and the project notes you uploaded, your project is a **Salesforce CRM Automation with Einstein AI & Prompt Builder for Lead Management**. It includes Lead validation, AI-generated summaries, Flow Automation, Email Notifications, Security, and User Management.
+Our project is a **Salesforce CRM Automation with Einstein AI & Prompt Builder for Lead Management**. It includes Lead validation, AI-generated summaries, Flow Automation, Email Notifications, Security, and User Management.
 
 A professional documentation should be structured like this.
 
@@ -14,7 +14,7 @@ A professional documentation should be structured like this.
 
 ### Developed By
 
-**Gopi Chandu**
+**Kalyani**
 
 **College**
 Kallam Haranadhareddy Institute of Technology
